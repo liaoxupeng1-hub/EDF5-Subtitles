@@ -1,0 +1,7 @@
+# Reference font size at 1920x1080. Native EDF6 font metrics remain unverified.
+font_size = 32.0
+# Keep the caption after actual playback ends, then fade in seconds.
+post_voice_hold_seconds = 1.0
+fade_out_seconds = 1.0
+# Test build diagnostics. Set false to disable subtitles-test.log.
+diagnostics = true
